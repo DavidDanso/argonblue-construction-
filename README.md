@@ -8,7 +8,7 @@
 
 ## Project Description
 
-### A Construction Company that provides Building and Civil Engineering.
+### A Construction Company that provides Building and Civil Engineering Service.
 
 ## Frameworks & Tools Used
 `Adobe XD`
